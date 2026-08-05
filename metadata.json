@@ -1,0 +1,6 @@
+{
+  "name": "Student Registration",
+  "description": "Student Registration form with Axios POST requests, Express API backend, and registered list management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
